@@ -31,3 +31,7 @@ nbconvert==7.17.1
 
 # Legacy setup.py compatibility
 setuptools==84.0.0
+
+langchain_huggingface==1.2.2
+sentence_transformers==6.1.0
+torchvision
